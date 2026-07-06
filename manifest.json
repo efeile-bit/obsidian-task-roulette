@@ -1,0 +1,9 @@
+{
+	"id": "task-roulette",
+	"name": "Task Roulette",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Beat decision fatigue: spin to pick a random task from your lists, with durations, daily/weekly/monthly rotation, templates, and a history calendar.",
+	"author": "Fahreddin Efil",
+	"isDesktopOnly": false
+}
